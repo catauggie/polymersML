@@ -1,0 +1,32 @@
+,Unnamed: 0,Charactristic,Regressor,Max $R^2$,Data Size,MPE
+0,0,Glass transition temperature,Random Forest,0.88,8092,1.23
+1,1,Thermal decomposition temperature,Random Forest,0.73,6325,2.25
+2,2,Melting temperature,Random Forest,0.71,3844,1.05
+3,3,Intrinsic viscosity eta,Gradient Boosting,0.74,1978,
+4,4,Specific volume,XGBoost,0.71,1739,2.75
+5,5,Density,XGBoost,0.56,1739,0.5
+6,6,Elongation at break,Gradient Boosting,0.55,1139,
+7,7,Lc phase transition temperature,Random Forest,0.79,961,3.02
+8,8,Softening temperature,Random Forest,0.68,777,20.73
+9,9,Refractive index,XGBoost,0.73,685,0.91
+10,10,Crystallization temperature,Random Forest,0.69,457,6.3
+11,11,Surface tension,Bagging,0.59,348,0.06
+12,12,Solubility parameter,XGBoost,0.77,324,0.04
+13,13,Cohesive energy density,XGBoost,0.82,324,0.96
+14,14,Dynamic mechanical properties loss tangent,Gradient Boosting,0.52,301,
+15,15,Isothermal weight loss temperature,XGBoost,0.97,273,0.13
+16,16,Isothermal weight loss time,XGBoost,0.86,228,
+17,17,Oxygen index,XGBoost,0.65,176,12.24
+18,18,Dynamic shear properties storage modulus,KNeighborsRegressor,0.51,141,
+19,19,Heat of crystallization,Random Forest,0.65,124,
+20,20,Deflection temperature under load hdt,Random Forest,0.61,99,4.0
+21,21,Fiber tensile stress strength at break,Decision Tree,0.63,91,1.1
+22,22,Vicat softening temperature,Gradient Boosting,0.67,82,0.45
+23,23,Brittleness temperature,KNeighborsRegressor,0.67,81,1.2
+24,24,Thermal diffusivity,Bagging,0.94,80,4.13
+25,25,Water vapor transmission,SVR,0.73,73,
+26,26,Hansen parameter delta p polar,Bagging,0.9,59,0.45
+27,27,Hansen parameter delta-h: hydrogen bonding,AdaBoost,0.59,59,2.56
+28,28,Crystallization kinetics k,XGBoost,0.97,59,
+29,29,Pvt relation specific volume,Decision Tree,0.78,56,0.01
+30,30,Pvt relation pressure,Decision Tree,0.96,53,

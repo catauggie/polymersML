@@ -1,0 +1,30 @@
+,Charactristic,Data size ,Regressor,Max VM
+3,Isothermal weight loss temperature,219,Elastic Net,1.0
+17,Pvt relation pressure,26,AdaBoost,0.96
+15,Thermal decomposition weight loss,3567,SVR,0.96
+13,Crystallization kinetics half time of crystallization,26,AdaBoost,0.96
+10,Pvt relation temperature,26,AdaBoost,0.94
+6,Vicat softening temperature,56,Random Forest,0.92
+12,Contact angle,116,Random Forest,0.91
+7,Cohesive energy density,219,Random Forest,0.9
+25,Thermal decomposition temperature,2968,XGBoost,0.89
+11,Crystallization temperature,331,Gradient Boosting,0.83
+27,Fiber tensile modulus,40,AdaBoost,0.82
+19,Deflection temperature under load hdt,38,Bagging,0.79
+18,Lc phase transition temperature,430,XGBoost,0.78
+0,Elongation at yield,49,Gradient Boosting,0.77
+4,Fiber tensile elongation at break,31,KNeighborsRegressor,0.77
+26,Izod impact,23,KNeighborsRegressor,0.73
+24,Surface tension,176,Bagging,0.73
+23,Crystallization kinetics r,21,KNeighborsRegressor,0.72
+9,Oxygen index,144,Bagging,0.69
+21,Hansen parameter delta p polar,43,Bagging,0.69
+16,Isothermal weight loss time,175,SVR,0.68
+1,Glass transition temperature,6278,Random Forest,0.68
+5,Solubility parameter,218,Gradient Boosting,0.66
+14,Heat of crystallization,67,Lasso,0.65
+28,Radius of gyration,45,Bagging,0.63
+22,Elongation at break,854,Decision Tree,0.62
+8,Fiber tensile stress strength at break,57,SVR,0.62
+20,Heat of fusion mol conversion,154,Bagging,0.61
+2,Melting temperature,2182,Random Forest,0.57
